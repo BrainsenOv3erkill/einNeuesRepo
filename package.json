@@ -1,0 +1,18 @@
+{
+  "name": "einneuesrepo",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "randomStrings.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "einNeuesRepo"
+  },
+  "author": "Willy Ellwart",
+  "license": "ISC",
+  "dependencies": {
+    "random-string-generator": "^1.0.1"
+  }
+}
